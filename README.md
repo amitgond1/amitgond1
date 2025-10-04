@@ -10,14 +10,15 @@
 
 ---
 
-## 📊 Coding Profiles:
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=LeetCode&logoColor=white)](https://leetcode.com/YOUR_ID/)
-[![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=flat&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/YOUR_ID)
-[![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=flat&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/YOUR_ID)
+## 🧠 Coding Profiles
+
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white)](https://leetcode.com/u/Amit_gond/)
+[![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/YOUR_ID)
+[![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/amitgond410)
+[![GeeksforGeeks](https://img.shields.io/badge/-GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/amitgo4scv/?_gl=1*10db8em*_up*MQ..*_gs*MQ..&gclid=CjwKCAjwi4PHBhA-EiwAnjTHuSNQ2RgWadUph5VyOtSS90NZCpLDSa8av8qDkIKB4nSIEDKFZUZnuRoCuQoQAvD_BwE&gbraid=0AAAAAC9yBkCGhl7mZhqsTVyXPtzS_aglI)
+
 
 ---
-
-## 🛠 Tech Stack
 
 ## 🛠 Tech Stack
 
@@ -53,6 +54,6 @@
 ---
 
 ## 🔗 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_ID)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=firefox&logoColor=white)](https://YOUR_PORTFOLIO.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amit-gond-1a631b277?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=firefox&logoColor=white)](https://amitgond1.github.io/resume/)
 
